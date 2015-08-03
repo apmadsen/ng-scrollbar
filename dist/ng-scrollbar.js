@@ -1,4 +1,3 @@
-'use strict';
 angular.module('ngScrollbar', []).directive('ngScrollbar', [
   '$parse',
   '$window',
